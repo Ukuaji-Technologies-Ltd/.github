@@ -87,7 +87,7 @@ We collaborate with:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ukuajitech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/ukuaji-technologies)
-[![Email](https://img.shields.io/badge/email-info@ukuaji.tech-red?style=flat&logo=gmail&logoColor=white)](mailto:contact@ukuaji.tech)
+[![Email](https://img.shields.io/badge/email-contact@ukuaji.tech-red?style=flat&logo=gmail&logoColor=white)](mailto:contact@ukuaji.tech)
 
 ---
 
