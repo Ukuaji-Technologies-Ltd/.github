@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ukuaji-technologies/.github/main/banner.png" alt="Ukuaji Technologies banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ukuaji-technologies/.github/main/banniere-ukuaji.png" alt="Ukuaji Technologies banner" width="100%" />
 </p>
 
 <h1 align="center">
